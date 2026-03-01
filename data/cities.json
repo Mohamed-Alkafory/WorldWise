@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "countryCode": "ES",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "54c5",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "countryCode": "DE",
+      "date": "2026-02-28T14:16:47.163Z",
+      "notes": "",
+      "position": {
+        "lat": "52.47065621273371",
+        "lng": "13.403320312500002"
+      }
+    },
+    {
+      "id": "1e83",
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "countryCode": "RU",
+      "date": "2026-02-28T14:44:44.358Z",
+      "notes": "",
+      "position": {
+        "lat": "55.703573627928286",
+        "lng": "37.66113281250001"
+      }
+    }
+  ]
+}
